@@ -13,3 +13,4 @@ Hans Moser war ein österreichischer Volksschauspieler. Sein bürgerlicher Name 
 
 Hans Moser sagt:
 > Jessas schon wieder
+<img src="https://commons.wikimedia.org/wiki/File:Schloss_G%C3%BCterfelde_Hans_Moser_017092a.jpg#/media/Datei:Schloss_Güterfelde_Hans_Moser_017092a.jpg/>
