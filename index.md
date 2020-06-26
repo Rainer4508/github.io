@@ -11,3 +11,5 @@ Hans Moser war ein österreichischer Volksschauspieler. Sein bürgerlicher Name 
 * apfel
 * honig
 
+Hans Moser sagt:
+> Jessas schon wieder
